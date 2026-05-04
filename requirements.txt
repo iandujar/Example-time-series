@@ -1,6 +1,6 @@
 streamlit
 pandas
 numpy
-maplotlib.pyplot
+matplotlib
 statsmodels
-sklearn
+scikit-learn
